@@ -8,6 +8,9 @@
     text-align: center;
 }
 body{
-    background-color: #10085b;
+    background-color: #5b0830;
     padding: 2px 2px 2px 2px;
+}
+h1{
+    color: white;
 }
