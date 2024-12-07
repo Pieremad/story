@@ -5,6 +5,7 @@
     font-style: italic;
     color: white;
 }
-*{
-    background: rgb(87, 82, 82);
+body{
+    background-color: #563d4e;
+    padding: 2px 2px 2px 2px;
 }
