@@ -1,0 +1,10 @@
+.p1{
+    background-color: aquamarine;
+    font-size: 50;
+    font-weight: bold;
+    font-style: italic;
+    color: white;
+}
+*{
+    background: rgb(87, 82, 82);
+}
